@@ -1,1 +1,2 @@
-# theinnovationparadox
+# The Innovation Paradox
+## Affiliation & Purpose
