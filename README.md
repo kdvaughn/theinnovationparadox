@@ -4,5 +4,5 @@ This repository is meant to serve as the open data portal for my dissertation re
 
 This data is made available for educational purposes in partial fulfillment of doctoral research requirements at the University of Wisconsin-Milwaukee’s School of Architecture and Urban Planning.
 
-##Contact
+## Contact
 For technical issues or questions, please contact kdvaughn [at] uwm [dot] edu.
